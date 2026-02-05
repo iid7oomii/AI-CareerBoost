@@ -1,4 +1,4 @@
-# CareerBoost-AI 🚀
+# AI-CareerBoost 🚀
 
 ### 1. The Concept
 **"The 90% Benchmark: From Scanning to Career Strategy"**
